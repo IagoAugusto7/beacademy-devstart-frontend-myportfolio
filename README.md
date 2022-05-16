@@ -8,8 +8,10 @@
 
 Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em live para os alunos do programa DevStart da be.academy.
 
-## Autores
-
+## Editores/Autores
+Autor:
+@lmmont
+Editor:
 - @IagoAugusto7 
 
 ## UI Design Figma

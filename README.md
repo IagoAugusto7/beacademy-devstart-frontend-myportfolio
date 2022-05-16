@@ -10,7 +10,7 @@ Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em liv
 
 ## Editores/Autores
 Autor:
-@lmmont
+- @lmmont
 
 Editor:
 - @IagoAugusto7 

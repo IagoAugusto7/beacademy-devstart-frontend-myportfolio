@@ -13,7 +13,7 @@ Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em liv
 
 ## Autores
 
-- [@lnmont 😄](https://www.github.com/lnmont) 
+- [@lnmont 😄](https://www.github.com/lnmont)/ Editor : Iago S2
 
 
 ## Libs externas

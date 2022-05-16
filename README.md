@@ -4,22 +4,14 @@
 </p>
 
 
-
 # be.academy - My Portfolio
 
 Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em live para os alunos do programa DevStart da be.academy.
-
-
 
 ## Autores
 
 - @IagoAugusto7 
 
-
 ## UI Design Figma
-
-Você pode utilizar o Design UI desenvolvido no Figma para te ajudar no desenvolvimento do seu portfólio.
-
-*Lembrando que você precisa duplicar a UI para sua conta do Figma*
 
 Link do Projeto > https://iagoaugusto7.github.io/beacademy-devstart-frontend-myportfolio/
